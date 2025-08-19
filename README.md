@@ -12,6 +12,7 @@ We’re building a future where safe drivers get paid — backed by Bitcoin-insp
 Stay tuned for app updates, merchant deals, airdrops, and major announcements.
 
 🌐 Official Website: https://newbitcoin.app
-🔗 Block explorer: https://testexplorer.newbitcoin.app   
+
+🔗 Block explorer: https://testexplorer.newbitcoin.app
 
 Drive Safe. Earn Crypto. Trade for discounts.
