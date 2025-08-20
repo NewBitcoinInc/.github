@@ -1,12 +1,18 @@
-## Hi there 👋
+**NewBitcoin** is a **Layer 1 DPoS Blockchain** that facilitates and administers a variety of reward systems.                                                                             
+**NewBitcoin app** is the first app build on this blockchain that rewards people for safe driving.
 
-<!--
+Here’s how it works:
+✅ Drive safely with our mobile app
+✅ Earn crypto tokens in real time
+✅ Redeem tokens for discounts at local & online merchants
+✅ Refer friends, take driving quizzes, and earn even more!
 
-**Here are some ideas to get you started:**
+We’re building a future where safe drivers get paid — backed by Bitcoin-inspired tokenomics and real-world merchant integrations.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Stay tuned for app updates, merchant deals, airdrops, and major announcements.
+
+🌐 Official Website: https://newbitcoin.app
+
+🔗 Block explorer: https://testexplorer.newbitcoin.app
+
+Drive Safe. Earn Crypto. Trade for discounts.
